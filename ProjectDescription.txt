@@ -1,1 +1,4 @@
-
+requirements:
+navigation menu
+3 pages 
+reusable component
