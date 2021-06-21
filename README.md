@@ -18,4 +18,4 @@ Favorite Places to Travel to in Jacksonville, Florida
 
 2. 927 Building on Forsyth Street: an old building that is now completely covered in paintings on all four sides of the building. The murals contain seven people that are composed of geometric shapes with the heads of chickens. The murals are full of vibrant blues and purples.
 
-3. The Arts Market in Riverside: An arts market that occurs every saturday in the early morning until the late afternoon. Vendors and local artists from all over jacksonville come to sell their goods and food at the art market. 
+3. The Arts Market in Riverside: An arts market that occurs every saturday in the early morning until the late afternoon. Vendors and local artists from all over jacksonville come to sell their goods and food at the art market. The market is also held alongside the St.Johns River
