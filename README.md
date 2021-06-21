@@ -8,11 +8,14 @@ Basic Requirements:
 -navigation bar (horizontal across the top of the page, the home page, each cities links w/ a hover feature for each person's experience)
 
 Afrah's City list- Dallas 
-Mandalay Canal
-Dallas arboretum
-Legacy park (mall)
-lakeside park, Higland park
-Klide Warren park (during christmas)
+
+1. Mandalay Canal
+
+2. Higland park
+
+3. Klide Warren park (during christmas)
+
+Resturaunt: Afrah (yes it's named after me ;p)
 
 
 --ZAINA'S INFO--
