@@ -2,7 +2,7 @@ Project Description: website about each of our own cities
 Basic Requirements:
 -three pages 
 -one resuable feature 
--navigation bar
+-navigation bar (horizontal across the top of the page, the home page, each cities links w/ a hover feature for each person's experience)
 
 Afrah's City list- Dallas 
 Mandalay Canal
