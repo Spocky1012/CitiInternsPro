@@ -24,6 +24,7 @@ Favorite Places to Travel to in Jacksonville, Florida
 --Hannah's Info--
 Place: Jacksonville, FL
 Places to go:
+
 1.) Walter Jones Historical Park 
 
 2.) Avenues Mall
