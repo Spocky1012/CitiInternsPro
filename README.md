@@ -25,7 +25,10 @@ Favorite Places to Travel to in Jacksonville, Florida
 Place: Jacksonville, FL
 Places to go:
 1.) Walter Jones Historical Park 
+
 2.) Avenues Mall
+
 3.) Dailys Place (go catch a good concert)
+
 Resturant:
 Fox's Diner
