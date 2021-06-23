@@ -39,3 +39,14 @@ Places to go:
 
 Resturant:
 Fox's Diner
+
+
+--Amita's Info---
+Place: Dallas, TX
+Places to go:
+1) Galleria Mall
+2) DFW Airport
+3) Reunion Tower
+
+Restaurant:
+Cosmic Cafe
