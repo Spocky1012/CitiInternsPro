@@ -7,7 +7,7 @@ Basic Requirements:
 
 -navigation bar (horizontal across the top of the page, the home page, each cities links w/ a hover feature for each person's experience)
 
-Afrah's City list- Dallas 
+Afrah's City list- Dallas ------
 
 1. Mandalay Canal
 
