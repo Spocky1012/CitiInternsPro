@@ -98,8 +98,8 @@ fieldset {
     float: left;
 }
 .column.full {
-    background-color: #C0B283;
-	color:#373737;	
+    background-color: #463f3a;
+	color:#FFFFFF;	
     width: 80%;
 	padding:1%;
 	margin-left: 10%;
@@ -108,8 +108,8 @@ fieldset {
 }	
 /* Middle column override*/
 .column.middle {
-    background-color: #C0B283;
-	color:#373737;	
+    background-color: #463f3a;
+	color:#FFFFFF;	
     width: 48%;
 	padding:1%;
 	margin-left: 1%;
