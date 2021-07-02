@@ -118,11 +118,19 @@ fieldset {
 }
 
 img.center {
-	max-width: 50%;
+	max-width: 70%;
 	max-height: auto;
 	margin-left: auto;
 	margin-right: auto;
 }	
+img.left{
+    max-width: 25%;
+    max-height: auto;
+	margin-left: auto;
+	margin-right: auto;
+    border: 10px solid #ddd;
+    border-radius: 20px;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -149,3 +157,11 @@ li a:hover {
 .active {
 	background-color: #ffb5a7;
 }
+/* image formatting*/
+img.profile {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
