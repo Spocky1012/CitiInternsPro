@@ -11,7 +11,7 @@ White #FFFFFF
 
 /*Section: Basic CSS*/
 body{
-	font-family:'Helvetica Neue', Helverica, Arial, sans-serif;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	background-color: #FFFFFF;
 	color: #000000;
 }
@@ -31,6 +31,7 @@ h3{
 h4{
 	font-size: 20px;
 	font-variant: small-caps;
+    color: #000000;
 }
 
 /*Section: Utility Classes*/
@@ -118,7 +119,7 @@ ul.nav{
 	margin: 5%;
 	padding: 0;
 	width: 100%;
-	background-color: #E0AFA0;
+	background-color: #a01a58;
 	color: #96858F;
 	font-size: 18px;
 }
@@ -135,6 +136,14 @@ li.nav a {
 }
 /* Change the link color on hover*/
 li.nav a:hover{
-	background-color: #a01a58;
+	background-color: #E0AFA0;
 	color: #FFFFFF;
+}
+/* table border and formatting */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
 }

@@ -98,8 +98,8 @@ fieldset {
     float: left;
 }
 .column.full {
-    background-color: #463f3a;
-	color:#FFFFFF;	
+    background-color: #FFFFFF;
+	color: #000;;	
     width: 80%;
 	padding:1%;
 	margin-left: 10%;
@@ -128,7 +128,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #E0AFA0;
+	background-color: #ff8fa3;
 }	
 li {
 	float:left;
